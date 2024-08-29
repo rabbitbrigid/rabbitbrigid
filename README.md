@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rabbitbrigid
 - 👀 I’m interested in security and data analysis
 - 🌱 I’m currently learning SQL and python
-- 💞️ I’m looking to collaborate on simple beginner projects
+- 💞️ I’m looking to try out simple beginner projects
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i listen to a lot of metal
 
