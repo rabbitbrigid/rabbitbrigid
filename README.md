@@ -2,7 +2,6 @@
 - 👀 I’m interested in security and data analysis
 - 🌱 I’m currently learning SQL and python
 - 💞️ I’m looking to collaborate on simple beginner projects
-- 📫 How to reach me: dm me
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i listen to a lot of metal
 
