@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rabbitbrigid
-- 👀 I’m interested in security and data analysis
+- 👀 I’m interested in healthcare, cosmetics, and political data analysis
 - 🌱 I’m currently learning SQL and python
 - 💞️ I’m looking to try out simple beginner projects
 - 😄 Pronouns: she/her
